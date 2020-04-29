@@ -1,0 +1,205 @@
+2020-04-27 15:04:382 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:357 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:706 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:813 INFO  LoginPage :67 - Getting Welcome Guest Text : Welcome Guest! [[ChromeDriver: chrome on WINDOWS (f36ad3a6b9006635d09d3eb59994e5d7)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-27 16:04:989 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:622 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:545 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:648 INFO  LoginPage :67 - Getting Welcome Guest Text : Welcome Guest! [[ChromeDriver: chrome on WINDOWS (8f07bcebcf7479d23b69eaa7b178797a)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-27 16:04:752 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:508 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:749 INFO  LoginPage :28 - Entering email  : johnny@lenox.com on Email Field [[ChromeDriver: chrome on WINDOWS (d76edd9fbe30c3ece481265005ce7ae8)] -> id: username-input]
+2020-04-27 16:04:878 INFO  LoginPage :37 - Entering password  : lenox123 on Password Field [[ChromeDriver: chrome on WINDOWS (d76edd9fbe30c3ece481265005ce7ae8)] -> id: password-input]
+2020-04-27 16:04:646 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (d76edd9fbe30c3ece481265005ce7ae8)] -> id: submitBtnSignIn]
+2020-04-27 16:04:744 INFO  LoginPage :55 - Getting Welcome Guest Text : You must enter a value for Password [[ChromeDriver: chrome on WINDOWS (d76edd9fbe30c3ece481265005ce7ae8)] -> id: password.errors]
+2020-04-27 16:04:187 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:736 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:969 INFO  LoginPage :28 - Entering email  : romeo@juliet.com on Email Field [[ChromeDriver: chrome on WINDOWS (8151d06280456b44ffad47ba3f02ef30)] -> id: username-input]
+2020-04-27 16:04:108 INFO  LoginPage :37 - Entering password  : juliet123 on Password Field [[ChromeDriver: chrome on WINDOWS (8151d06280456b44ffad47ba3f02ef30)] -> id: password-input]
+2020-04-27 16:04:29 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (8151d06280456b44ffad47ba3f02ef30)] -> id: submitBtnSignIn]
+2020-04-27 16:04:281 INFO  LoginPage :55 - Getting Welcome Guest Text : You must enter a value for Password [[ChromeDriver: chrome on WINDOWS (8151d06280456b44ffad47ba3f02ef30)] -> id: password.errors]
+2020-04-27 16:04:706 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:876 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:254 INFO  LoginPage :28 - Entering email  : bobby@yahoo.co.uk on Email Field [[ChromeDriver: chrome on WINDOWS (850d832b584a543b850f3f6d38a5734a)] -> id: username-input]
+2020-04-27 16:04:382 INFO  LoginPage :37 - Entering password  : bobby123 on Password Field [[ChromeDriver: chrome on WINDOWS (850d832b584a543b850f3f6d38a5734a)] -> id: password-input]
+2020-04-27 16:04:579 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (850d832b584a543b850f3f6d38a5734a)] -> id: submitBtnSignIn]
+2020-04-27 16:04:700 INFO  LoginPage :55 - Getting Welcome Guest Text : You must enter a value for Password [[ChromeDriver: chrome on WINDOWS (850d832b584a543b850f3f6d38a5734a)] -> id: password.errors]
+2020-04-27 16:04:517 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:448 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:567 INFO  LoginPage :67 - Getting Welcome Guest Text : Welcome Guest! [[ChromeDriver: chrome on WINDOWS (bdf6a5de284ec814a121a488ec52e34e)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-27 16:04:629 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:63 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:391 INFO  LoginPage :28 - Entering email  : johnny@lenox.com on Email Field [[ChromeDriver: chrome on WINDOWS (bc4edd577564bc9f8e94ad0df81ff2df)] -> id: username-input]
+2020-04-27 16:04:542 INFO  LoginPage :37 - Entering password  : lenox123 on Password Field [[ChromeDriver: chrome on WINDOWS (bc4edd577564bc9f8e94ad0df81ff2df)] -> id: password-input]
+2020-04-27 16:04:387 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (bc4edd577564bc9f8e94ad0df81ff2df)] -> id: submitBtnSignIn]
+2020-04-27 16:04:487 INFO  LoginPage :55 - Getting Welcome Guest Text : You must enter a value for Password [[ChromeDriver: chrome on WINDOWS (bc4edd577564bc9f8e94ad0df81ff2df)] -> id: password.errors]
+2020-04-27 16:04:728 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:260 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:539 INFO  LoginPage :28 - Entering email  : romeo@juliet.com on Email Field [[ChromeDriver: chrome on WINDOWS (8dd2f07fee24caa1c53fd0042e8f7820)] -> id: username-input]
+2020-04-27 16:04:663 INFO  LoginPage :37 - Entering password  : juliet123 on Password Field [[ChromeDriver: chrome on WINDOWS (8dd2f07fee24caa1c53fd0042e8f7820)] -> id: password-input]
+2020-04-27 16:04:433 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (8dd2f07fee24caa1c53fd0042e8f7820)] -> id: submitBtnSignIn]
+2020-04-27 16:04:525 INFO  LoginPage :55 - Getting Welcome Guest Text : You must enter a value for Password [[ChromeDriver: chrome on WINDOWS (8dd2f07fee24caa1c53fd0042e8f7820)] -> id: password.errors]
+2020-04-27 16:04:227 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:968 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:211 INFO  LoginPage :28 - Entering email  : bobby@yahoo.co.uk on Email Field [[ChromeDriver: chrome on WINDOWS (eabe777b79de7998383771a504ec4a7b)] -> id: username-input]
+2020-04-27 16:04:327 INFO  LoginPage :37 - Entering password  : bobby123 on Password Field [[ChromeDriver: chrome on WINDOWS (eabe777b79de7998383771a504ec4a7b)] -> id: password-input]
+2020-04-27 16:04:341 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (eabe777b79de7998383771a504ec4a7b)] -> id: submitBtnSignIn]
+2020-04-27 16:04:456 INFO  LoginPage :55 - Getting Welcome Guest Text : You must enter a value for Password [[ChromeDriver: chrome on WINDOWS (eabe777b79de7998383771a504ec4a7b)] -> id: password.errors]
+2020-04-27 16:04:565 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:241 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:351 INFO  LoginPage :67 - Getting Welcome Guest Text : Welcome Guest! [[ChromeDriver: chrome on WINDOWS (3a34264d03a7534ff91552b84551bc99)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-27 16:04:442 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:348 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:659 INFO  LoginPage :28 - Entering email  : johnny@lenox.com on Email Field [[ChromeDriver: chrome on WINDOWS (ebb96919508d0ce264d8cdfb9ea84509)] -> id: username-input]
+2020-04-27 16:04:830 INFO  LoginPage :37 - Entering password  : lenox123 on Password Field [[ChromeDriver: chrome on WINDOWS (ebb96919508d0ce264d8cdfb9ea84509)] -> id: password-input]
+2020-04-27 16:04:535 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (ebb96919508d0ce264d8cdfb9ea84509)] -> id: submitBtnSignIn]
+2020-04-27 16:04:626 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (ebb96919508d0ce264d8cdfb9ea84509)] -> id: password.errors]
+2020-04-27 16:04:810 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:876 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:134 INFO  LoginPage :28 - Entering email  : romeo@juliet.com on Email Field [[ChromeDriver: chrome on WINDOWS (0db6d9ad69282ad05299bd57de849ab0)] -> id: username-input]
+2020-04-27 16:04:334 INFO  LoginPage :37 - Entering password  : juliet123 on Password Field [[ChromeDriver: chrome on WINDOWS (0db6d9ad69282ad05299bd57de849ab0)] -> id: password-input]
+2020-04-27 16:04:383 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (0db6d9ad69282ad05299bd57de849ab0)] -> id: submitBtnSignIn]
+2020-04-27 16:04:478 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (0db6d9ad69282ad05299bd57de849ab0)] -> id: password.errors]
+2020-04-27 16:04:835 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 16:04:982 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 16:04:254 INFO  LoginPage :28 - Entering email  : bobby@yahoo.co.uk on Email Field [[ChromeDriver: chrome on WINDOWS (e3a34bbe8fef7762960a866c91c9757b)] -> id: username-input]
+2020-04-27 16:04:436 INFO  LoginPage :37 - Entering password  : bobby123 on Password Field [[ChromeDriver: chrome on WINDOWS (e3a34bbe8fef7762960a866c91c9757b)] -> id: password-input]
+2020-04-27 16:04:577 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (e3a34bbe8fef7762960a866c91c9757b)] -> id: submitBtnSignIn]
+2020-04-27 16:04:670 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (e3a34bbe8fef7762960a866c91c9757b)] -> id: password.errors]
+2020-04-27 17:04:997 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:921 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (5bdeca194ff881ea0733c887bdf1a3b8)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-27 17:04:133 INFO  HomePage :28 - Getting Adult Social Care Text :  [[ChromeDriver: chrome on WINDOWS (5bdeca194ff881ea0733c887bdf1a3b8)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-27 17:04:873 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:839 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 17:04:949 INFO  LoginPage :67 - Getting Welcome Guest Text : Welcome Guest! [[ChromeDriver: chrome on WINDOWS (54e527a24dcceea506aa6cbbf1cf1b3e)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-27 17:04:136 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:818 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 17:04:80 INFO  LoginPage :28 - Entering email  : johnny@lenox.com on Email Field [[ChromeDriver: chrome on WINDOWS (e716499b08d92526d9dcc7cd83298cb2)] -> id: username-input]
+2020-04-27 17:04:251 INFO  LoginPage :37 - Entering password  : lenox123 on Password Field [[ChromeDriver: chrome on WINDOWS (e716499b08d92526d9dcc7cd83298cb2)] -> id: password-input]
+2020-04-27 17:04:129 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (e716499b08d92526d9dcc7cd83298cb2)] -> id: submitBtnSignIn]
+2020-04-27 17:04:221 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (e716499b08d92526d9dcc7cd83298cb2)] -> id: password.errors]
+2020-04-27 17:04:271 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:31 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 17:04:279 INFO  LoginPage :28 - Entering email  : romeo@juliet.com on Email Field [[ChromeDriver: chrome on WINDOWS (268dc811eca3037f616bd302e84f6a54)] -> id: username-input]
+2020-04-27 17:04:513 INFO  LoginPage :37 - Entering password  : juliet123 on Password Field [[ChromeDriver: chrome on WINDOWS (268dc811eca3037f616bd302e84f6a54)] -> id: password-input]
+2020-04-27 17:04:268 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (268dc811eca3037f616bd302e84f6a54)] -> id: submitBtnSignIn]
+2020-04-27 17:04:360 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (268dc811eca3037f616bd302e84f6a54)] -> id: password.errors]
+2020-04-27 17:04:561 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:852 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 17:04:98 INFO  LoginPage :28 - Entering email  : bobby@yahoo.co.uk on Email Field [[ChromeDriver: chrome on WINDOWS (652bcf47daebdadfd3f0d4ad2f12baba)] -> id: username-input]
+2020-04-27 17:04:314 INFO  LoginPage :37 - Entering password  : bobby123 on Password Field [[ChromeDriver: chrome on WINDOWS (652bcf47daebdadfd3f0d4ad2f12baba)] -> id: password-input]
+2020-04-27 17:04:996 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (652bcf47daebdadfd3f0d4ad2f12baba)] -> id: submitBtnSignIn]
+2020-04-27 17:04:95 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (652bcf47daebdadfd3f0d4ad2f12baba)] -> id: password.errors]
+2020-04-27 17:04:228 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:570 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (d6e25ff468b857930cdb5ea6db4078e9)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-27 17:04:723 INFO  HomePage :35 - Getting Adult Social Care Text :  [[ChromeDriver: chrome on WINDOWS (d6e25ff468b857930cdb5ea6db4078e9)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-27 17:04:285 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:900 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (4eb177b789b24db1aab6fad86e8ca5ea)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-27 17:04:185 INFO  HomePage :41 - Clicking on Adult Social Care Link : [[ChromeDriver: chrome on WINDOWS (4eb177b789b24db1aab6fad86e8ca5ea)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-27 17:04:337 INFO  HomePage :47 - Clicking on What is Adult Social Care Link : Proxy element for: DefaultElementLocator 'By.partialLinkText: What is Adult Social'
+2020-04-27 17:04:427 INFO  HomePage :52 - Getting Applying for Adult Social Care Text : Applying for adult social care [[ChromeDriver: chrome on WINDOWS (4eb177b789b24db1aab6fad86e8ca5ea)] -> xpath: //h2[@class='supplement__heading']]
+2020-04-27 17:04:748 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:07 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 17:04:105 INFO  LoginPage :67 - Getting Welcome Guest Text : Welcome Guest! [[ChromeDriver: chrome on WINDOWS (ed985b9e93790d1189392cef39758127)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-27 17:04:719 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:540 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 17:04:801 INFO  LoginPage :28 - Entering email  : johnny@lenox.com on Email Field [[ChromeDriver: chrome on WINDOWS (9dd40d643d0fba1c314b9d3c5b8f7f61)] -> id: username-input]
+2020-04-27 17:04:985 INFO  LoginPage :37 - Entering password  : lenox123 on Password Field [[ChromeDriver: chrome on WINDOWS (9dd40d643d0fba1c314b9d3c5b8f7f61)] -> id: password-input]
+2020-04-27 17:04:734 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (9dd40d643d0fba1c314b9d3c5b8f7f61)] -> id: submitBtnSignIn]
+2020-04-27 17:04:829 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (9dd40d643d0fba1c314b9d3c5b8f7f61)] -> id: password.errors]
+2020-04-27 17:04:910 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:687 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 17:04:920 INFO  LoginPage :28 - Entering email  : romeo@juliet.com on Email Field [[ChromeDriver: chrome on WINDOWS (835c8362fbc2a660f6f685ef1babff89)] -> id: username-input]
+2020-04-27 17:04:87 INFO  LoginPage :37 - Entering password  : juliet123 on Password Field [[ChromeDriver: chrome on WINDOWS (835c8362fbc2a660f6f685ef1babff89)] -> id: password-input]
+2020-04-27 17:04:902 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (835c8362fbc2a660f6f685ef1babff89)] -> id: submitBtnSignIn]
+2020-04-27 17:04:14 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (835c8362fbc2a660f6f685ef1babff89)] -> id: password.errors]
+2020-04-27 17:04:926 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:423 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 17:04:664 INFO  LoginPage :28 - Entering email  : bobby@yahoo.co.uk on Email Field [[ChromeDriver: chrome on WINDOWS (904c44cac7242e977487922edd3321c1)] -> id: username-input]
+2020-04-27 17:04:834 INFO  LoginPage :37 - Entering password  : bobby123 on Password Field [[ChromeDriver: chrome on WINDOWS (904c44cac7242e977487922edd3321c1)] -> id: password-input]
+2020-04-27 17:04:608 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (904c44cac7242e977487922edd3321c1)] -> id: submitBtnSignIn]
+2020-04-27 17:04:696 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (904c44cac7242e977487922edd3321c1)] -> id: password.errors]
+2020-04-27 17:04:709 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:52 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (d5c26b133cf92b2116ec600fcf72c0c0)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-27 17:04:225 INFO  HomePage :30 - Clicking on Adult Social Care Link : [[ChromeDriver: chrome on WINDOWS (d5c26b133cf92b2116ec600fcf72c0c0)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-27 17:04:972 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 17:04:185 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (926d5cf8e826dad65418f47a5dbc6165)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-27 17:04:479 INFO  HomePage :30 - Clicking on Adult Social Care Link : [[ChromeDriver: chrome on WINDOWS (926d5cf8e826dad65418f47a5dbc6165)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-27 17:04:597 INFO  HomePage :42 - Clicking on What is Adult Social Care Link : Proxy element for: DefaultElementLocator 'By.partialLinkText: What is Adult Social'
+2020-04-27 17:04:695 INFO  HomePage :47 - Getting Applying for Adult Social Care Text : Applying for adult social care [[ChromeDriver: chrome on WINDOWS (926d5cf8e826dad65418f47a5dbc6165)] -> xpath: //h2[@class='supplement__heading']]
+2020-04-27 18:04:18 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 18:04:576 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (3e4d2dab414158b84fcce5a5aa67554b)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-27 18:04:994 INFO  HomePage :30 - Clicking on Adult Social Care Link : [[ChromeDriver: chrome on WINDOWS (3e4d2dab414158b84fcce5a5aa67554b)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-27 18:04:254 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 18:04:165 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (559740c950dbc05fa72b0ecd877f7e53)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-27 18:04:690 INFO  HomePage :30 - Clicking on Adult Social Care Link : [[ChromeDriver: chrome on WINDOWS (559740c950dbc05fa72b0ecd877f7e53)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-27 18:04:741 INFO  HomePage :42 - Clicking on What is Adult Social Care Link : [[ChromeDriver: chrome on WINDOWS (559740c950dbc05fa72b0ecd877f7e53)] -> partial link text: What is Adult Social]
+2020-04-27 18:04:669 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 18:04:975 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (0935ef6ca5bda34a5b6bcd58efcbc248)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-27 18:04:527 INFO  HomePage :30 - Clicking on Adult Social Care Link : [[ChromeDriver: chrome on WINDOWS (0935ef6ca5bda34a5b6bcd58efcbc248)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-27 18:04:645 INFO  HomePage :36 - Getting Adult Social Care Text : Adult Social Care [[ChromeDriver: chrome on WINDOWS (0935ef6ca5bda34a5b6bcd58efcbc248)] -> class name: page-heading]
+2020-04-27 18:04:782 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 18:04:960 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (f1f59c939d7ff19189d13f716b0a2e52)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-27 18:04:255 INFO  HomePage :30 - Clicking on Adult Social Care Link : [[ChromeDriver: chrome on WINDOWS (f1f59c939d7ff19189d13f716b0a2e52)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-27 18:04:345 INFO  HomePage :43 - Clicking on What is Adult Social Care Link : Proxy element for: DefaultElementLocator 'By.partialLinkText: What is Adult Social'
+2020-04-27 18:04:437 INFO  HomePage :48 - Getting Applying for Adult Social Care Text : Applying for adult social care [[ChromeDriver: chrome on WINDOWS (f1f59c939d7ff19189d13f716b0a2e52)] -> xpath: //h2[@class='supplement__heading']]
+2020-04-27 18:04:486 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 18:04:544 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (b1df720086e33cd7b172d72a85613a27)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-27 18:04:702 INFO  HomePage :30 - Clicking on Adult Social Care Link : [[ChromeDriver: chrome on WINDOWS (b1df720086e33cd7b172d72a85613a27)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-27 18:04:816 INFO  HomePage :36 - Getting Adult Social Care Text : Adult Social Care [[ChromeDriver: chrome on WINDOWS (b1df720086e33cd7b172d72a85613a27)] -> class name: page-heading]
+2020-04-27 18:04:22 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 18:04:282 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (db54ede29c8f79e66742aa3196618244)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-27 18:04:529 INFO  HomePage :30 - Clicking on Adult Social Care Link : [[ChromeDriver: chrome on WINDOWS (db54ede29c8f79e66742aa3196618244)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-27 18:04:676 INFO  HomePage :43 - Clicking on What is Adult Social Care Link : Proxy element for: DefaultElementLocator 'By.partialLinkText: What is Adult Social'
+2020-04-27 18:04:766 INFO  HomePage :48 - Getting Applying for Adult Social Care Text : Applying for adult social care [[ChromeDriver: chrome on WINDOWS (db54ede29c8f79e66742aa3196618244)] -> xpath: //h2[@class='supplement__heading']]
+2020-04-27 18:04:714 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 18:04:774 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 18:04:885 INFO  LoginPage :67 - Getting Welcome Guest Text : Welcome Guest! [[ChromeDriver: chrome on WINDOWS (2e91f98e565b7196c3a373be3968a1a3)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-27 18:04:00 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 18:04:87 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 18:04:376 INFO  LoginPage :28 - Entering email  : johnny@lenox.com on Email Field [[ChromeDriver: chrome on WINDOWS (f620a0389dfbcc7c43eee1066ee22390)] -> id: username-input]
+2020-04-27 18:04:605 INFO  LoginPage :37 - Entering password  : lenox123 on Password Field [[ChromeDriver: chrome on WINDOWS (f620a0389dfbcc7c43eee1066ee22390)] -> id: password-input]
+2020-04-27 18:04:476 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (f620a0389dfbcc7c43eee1066ee22390)] -> id: submitBtnSignIn]
+2020-04-27 18:04:568 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (f620a0389dfbcc7c43eee1066ee22390)] -> id: password.errors]
+2020-04-27 18:04:615 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 18:04:549 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 18:04:776 INFO  LoginPage :28 - Entering email  : romeo@juliet.com on Email Field [[ChromeDriver: chrome on WINDOWS (d5778500b55fa07b658307ce86fb5875)] -> id: username-input]
+2020-04-27 18:04:29 INFO  LoginPage :37 - Entering password  : juliet123 on Password Field [[ChromeDriver: chrome on WINDOWS (d5778500b55fa07b658307ce86fb5875)] -> id: password-input]
+2020-04-27 18:04:724 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (d5778500b55fa07b658307ce86fb5875)] -> id: submitBtnSignIn]
+2020-04-27 18:04:876 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (d5778500b55fa07b658307ce86fb5875)] -> id: password.errors]
+2020-04-27 18:04:35 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 18:04:465 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-27 18:04:700 INFO  LoginPage :28 - Entering email  : bobby@yahoo.co.uk on Email Field [[ChromeDriver: chrome on WINDOWS (c4c5c6064987cceb66011f8b40a68425)] -> id: username-input]
+2020-04-27 18:04:931 INFO  LoginPage :37 - Entering password  : bobby123 on Password Field [[ChromeDriver: chrome on WINDOWS (c4c5c6064987cceb66011f8b40a68425)] -> id: password-input]
+2020-04-27 18:04:639 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (c4c5c6064987cceb66011f8b40a68425)] -> id: submitBtnSignIn]
+2020-04-27 18:04:726 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (c4c5c6064987cceb66011f8b40a68425)] -> id: password.errors]
+2020-04-29 00:04:752 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 00:04:44 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (39ba7da7247944675e4efab49451b096)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-29 00:04:872 INFO  HomePage :30 - Clicking on Adult Social Care Link : [[ChromeDriver: chrome on WINDOWS (39ba7da7247944675e4efab49451b096)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-29 00:04:44 INFO  HomePage :36 - Getting Adult Social Care Text : Adult Social Care [[ChromeDriver: chrome on WINDOWS (39ba7da7247944675e4efab49451b096)] -> class name: page-heading]
+2020-04-29 00:04:125 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 00:04:758 INFO  HomePage :34 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (9e91517d93a92911afc045cda7a9b564)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-29 00:04:379 INFO  HomePage :30 - Clicking on Adult Social Care Link : [[ChromeDriver: chrome on WINDOWS (9e91517d93a92911afc045cda7a9b564)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-29 00:04:650 INFO  HomePage :43 - Clicking on What is Adult Social Care Link : Proxy element for: DefaultElementLocator 'By.partialLinkText: What is Adult Social'
+2020-04-29 00:04:801 INFO  HomePage :48 - Getting Applying for Adult Social Care Text : Applying for adult social care [[ChromeDriver: chrome on WINDOWS (9e91517d93a92911afc045cda7a9b564)] -> xpath: //h2[@class='supplement__heading']]
+2020-04-29 00:04:425 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 00:04:843 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 00:04:50 INFO  LoginPage :67 - Getting Welcome Guest Text : Welcome Guest! [[ChromeDriver: chrome on WINDOWS (fd81d566d10e45a29bec9b9e431621e8)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-29 00:04:605 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 00:04:909 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 00:04:330 INFO  LoginPage :28 - Entering email  : johnny@lenox.com on Email Field [[ChromeDriver: chrome on WINDOWS (7178bc4b1b6ae61e126b08862dcbdb81)] -> id: username-input]
+2020-04-29 00:04:631 INFO  LoginPage :37 - Entering password  : lenox123 on Password Field [[ChromeDriver: chrome on WINDOWS (7178bc4b1b6ae61e126b08862dcbdb81)] -> id: password-input]
+2020-04-29 00:04:728 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (7178bc4b1b6ae61e126b08862dcbdb81)] -> id: submitBtnSignIn]
+2020-04-29 00:04:911 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (7178bc4b1b6ae61e126b08862dcbdb81)] -> id: password.errors]
+2020-04-29 00:04:616 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 00:04:133 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 00:04:491 INFO  LoginPage :28 - Entering email  : romeo@juliet.com on Email Field [[ChromeDriver: chrome on WINDOWS (e32dde8fb8cbbedc697b422ff1bb5a08)] -> id: username-input]
+2020-04-29 00:04:804 INFO  LoginPage :37 - Entering password  : juliet123 on Password Field [[ChromeDriver: chrome on WINDOWS (e32dde8fb8cbbedc697b422ff1bb5a08)] -> id: password-input]
+2020-04-29 00:04:953 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (e32dde8fb8cbbedc697b422ff1bb5a08)] -> id: submitBtnSignIn]
+2020-04-29 00:04:153 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (e32dde8fb8cbbedc697b422ff1bb5a08)] -> id: password.errors]
+2020-04-29 00:04:771 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 00:04:113 INFO  HomePage :28 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 00:04:553 INFO  LoginPage :28 - Entering email  : bobby@yahoo.co.uk on Email Field [[ChromeDriver: chrome on WINDOWS (753f28e47ceab0e3aed8c013bc23c23f)] -> id: username-input]
+2020-04-29 00:04:838 INFO  LoginPage :37 - Entering password  : bobby123 on Password Field [[ChromeDriver: chrome on WINDOWS (753f28e47ceab0e3aed8c013bc23c23f)] -> id: password-input]
+2020-04-29 00:04:809 INFO  LoginPage :47 - Clicking on Services link : [[ChromeDriver: chrome on WINDOWS (753f28e47ceab0e3aed8c013bc23c23f)] -> id: submitBtnSignIn]
+2020-04-29 00:04:940 INFO  LoginPage :55 - Getting Welcome Guest Text : Invalid Username/Password supplied [[ChromeDriver: chrome on WINDOWS (753f28e47ceab0e3aed8c013bc23c23f)] -> id: password.errors]
